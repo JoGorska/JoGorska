@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoGorska
 - 👀 I’m interested in Python, Django
-- 🌱 I’m currently learning modern javascript
+- 🌱 I’m currently learning Django Rest Framework
 - 📫 How to reach me www.linkedin.com/in/joanna-gorska-759a40210
 
 <!---
